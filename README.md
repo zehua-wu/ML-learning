@@ -1,4 +1,4 @@
-# Machine Learning Algorithms: Derivations and Code Examples
+# Machine Learning Algorithms: Derivations and Code Implementations
 
 This repository provides a implemenation of some machine learning algorithms, including their mathematical derivations and practical code implementations.  The goal is to offer a comprehensive resource for understanding and applying these algorithms.
 
